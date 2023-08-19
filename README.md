@@ -4,7 +4,7 @@ A curated list of resources for learning value investing,
 compounding wealth
 sustainably, and finding great businesses.
 
-"Value and growth are joined at the hip. Growth may be a negligible consideration or a major factor in estimating a business's future prospects. We consider the term 'value investing' to be redundant. What else is investing other than the search for value?" --Warren Buffett
+"Value and growth are joined at the hip. Growth may be a negligible consideration or a major factor in estimating a business's future prospects. We consider the term 'value investing' to be redundant. What else is investing other than the search for value?" [--Warren Buffett](https://youtu.be/bkGj4wPvI7g)
 
 Someday, we won't have to write whole books about the difference between investing and speculation. Until then... there's Awesome Value Investing.
 
@@ -33,17 +33,39 @@ Investors who have achieved market returns over long periods of time.
 
 The chairman and CEO of Berkshire Hathaway.
 
-[Warren Buffett Archive]
+[Warren Buffett Archive]()
 
 [Warren Buffet: An Illustrated Biography of the World's Most Successful Investor](https://www.goodreads.com/book/show/1144.Warren_Buffett)
   * by Ayano Morio
   * Published 2004
   * [Given away as a prize to his class by Joel Greenblatt](https://youtu.be/b8zbC5ZsisI?t=84)
 
+[Buffett: The Making of an American Capitalist](https://www.goodreads.com/book/show/1155.Buffett?from_search=true&from_srp=true&qid=YHQaw4wFvg&rank=1)
+  * Roger Lowenstein
+
+[The Snowball: Warren Buffett and the Business of Life](https://www.goodreads.com/book/show/2054761.The_Snowball?ac=1&from_search=true&qid=T2JQfvBFPZ&rank=1)
+  * Alice Schroeder
+
+[The Essays of Warren Buffett : Lessons for Corporate America](https://www.goodreads.com/book/show/145565.The_Essays_of_Warren_Buffett_)
+  * By Warren Buffett
+  * Edited by Larry Cunningham
+
+[The Deals of Warren Buffett: Volume 1](https://www.goodreads.com/book/show/36546505-the-deals-of-warren-buffett?from_search=true&from_srp=true&qid=mSDxb8QBAf&rank=1)
+  * By Glen Arnold
+
+[The Deals of Warren Buffett, Volume 2: ](https://www.goodreads.com/book/show/51114252-the-deals-of-warren-buffett-volume-2?from_search=true&from_srp=true&qid=ptX4IWCVd6&rank=2)
+  * By Glen Arnold
+
+[The Deals of Warren Buffett, Volume 3: Making America’s largest company](https://www.goodreads.com/book/show/59699853-the-deals-of-warren-buffett-volume-3)
+  * By Glen Arnold
+
 ### Charlie Munger
 
 The vice chairman of Berkshire Hathaway. Formerly chairman and chief investment officer of 
 The Daily Journal Corporation and Wesco Financial.
+
+[Damn Right: Behind the Scenes with Berkshire Hathaway Billionaire Charlie Munger](https://www.goodreads.com/book/show/1160.Damn_Right)
+  * Janet Lowe
 
 ### Howard Marks
 
@@ -85,6 +107,8 @@ Founder and Managing Partner at [Pabrai Funds]() and Dakshana Foundation.
 Chairman of Baupost Group in Boston, Massachusetts.
 
 [Margin of Safety] by Seth Klarman.
+
+(https://youtu.be/wHsEt6MchhE]
 
 ### Michael Burry
 
@@ -157,11 +181,23 @@ quantitative criteria or egregious underpricing.
   * By Thornton L. O'Glove
   * Recommended by Gautam Baid
 
+### Investing Tactics
+
+* [How to Buy Stocks](https://www.goodreads.com/book/show/2904333-how-to-buy-stocks)
+  * [Recommended by Seth Klarman](https://youtu.be/wHsEt6MchhE?t=289)
+    
 ### Miscellaneous Books 
 
-* [Trillion Dollar Triage]
+* [Trillion Dollar Triage](https://www.goodreads.com/book/show/58450272-trillion-dollar-triage)
+  * By Nick Timiraos
+  * Recommended by Warren Buffett at 2022 Berkshire Meeting, Omaha Bookworm
 
-* 
+### Business History
+
+### Business Biographies
+
+* [Colonel Harland Sanders: The Autobiography of the Original Celebrity Chef](https://www.goodreads.com/book/show/15767252-colonel-harland-sanders?from_search=true&from_srp=true&qid=3HghbUp2Hb&rank=2)
+
 ## Websites
 
 ### Data Aggregators
