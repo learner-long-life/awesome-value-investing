@@ -1,7 +1,20 @@
-# Awesome Value Investing
+# Awesome Value Investing [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Track Awesome List](https://www.trackawesomelist.com/badge.svg)](https://www.trackawesomelist.com/learner-long-life/awesome-value-investing/)
 
-[All Books As a List / Bookshelf on GoodReads]()
-[All Videos As a Playlist on Youtube]
+A curated list of resources for learning value investing,
+compounding wealth
+sustainably, and finding great businesses.
+
+"Value and growth are joined at the hip. Growth may be a negligible consideration or a major factor in estimating a business's future prospects. We consider the term 'value investing' to be redundant. What else is investing other than the search for value?" --Warren Buffett
+
+Someday, we won't have to write whole books about the difference between investing and speculation. Until then... there's Awesome Value Investing.
+
+Contributions and feedback are welcome. Please open a pull request or message me at @learner-long-life.
+
+Inspired by [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning)
+
+[All Books As a List / Bookshelf on GoodReads](https://www.goodreads.com/review/list/169054280?shelf=awesome-value-investing)
+
+[All Videos As a Playlist on Youtube](https://www.youtube.com/watch?v=b8zbC5ZsisI&list=PLAAmnDtuht3DEjmgRSdKp7wMjVloCSQqC)
 
 ## Where Do I Start
 
