@@ -71,7 +71,16 @@ The Daily Journal Corporation and Wesco Financial.
 
 The co-founder of Oaktree Capital Management with Bruce Karsh.
 
-[Mastering the Market Cycle]() by Howard Marks.
+[Mastering the Market Cycle](https://www.goodreads.com/book/show/37570460-mastering-the-market-cycle?from_search=true&from_srp=true&qid=MT2Mxrt0hK&rank=1)
+  * by Howard Marks.
+
+[The Most Important Thing](https://www.goodreads.com/book/show/10454418-the-most-important-thing?from_search=true&from_srp=true&qid=EYY1pehZGq&rank=1)
+  * by Howard Marks
+
+[Howard's Memos to Oaktree Investors](https://www.oaktreecapital.com/insights/memos)
+
+[2023 Ivey Value Conference Keynote Speaker: Howard Marks](https://www.youtube.com/watch?v=UzwNdxnEUQQ)
+  * Posted 2023 June 1
 
 ### Peter Lynch
 
