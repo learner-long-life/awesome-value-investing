@@ -50,14 +50,16 @@ The chairman and CEO of Berkshire Hathaway.
   * By Warren Buffett
   * Edited by Larry Cunningham
 
-[The Deals of Warren Buffett: Volume 1](https://www.goodreads.com/book/show/36546505-the-deals-of-warren-buffett?from_search=true&from_srp=true&qid=mSDxb8QBAf&rank=1)
+The Deals of Warren Buffett
+  * [Volume 1](https://www.goodreads.com/book/show/36546505-the-deals-of-warren-buffett?from_search=true&from_srp=true&qid=mSDxb8QBAf&rank=1)
+  * [Volume 2](https://www.goodreads.com/book/show/51114252-the-deals-of-warren-buffett-volume-2?from_search=true&from_srp=true&qid=ptX4IWCVd6&rank=2)
+  * [Volume 3: Making America’s largest company](https://www.goodreads.com/book/show/59699853-the-deals-of-warren-buffett-volume-3)
   * By Glen Arnold
 
-[The Deals of Warren Buffett, Volume 2: ](https://www.goodreads.com/book/show/51114252-the-deals-of-warren-buffett-volume-2?from_search=true&from_srp=true&qid=ptX4IWCVd6&rank=2)
-  * By Glen Arnold
-
-[The Deals of Warren Buffett, Volume 3: Making America’s largest company](https://www.goodreads.com/book/show/59699853-the-deals-of-warren-buffett-volume-3)
-  * By Glen Arnold
+[The Warren Buffet Way](https://www.goodreads.com/book/show/23059475-the-warren-buffett-way-third-edition)
+  * Third Edition
+  * Published 2014
+  * By Robert G. Hagstrom
 
 ### Charlie Munger
 
@@ -99,6 +101,13 @@ knighted in the UK, and continued to run his fund remotely in the Bahamas.
 
 The founder and chairman of Gotham Capital Management.
 Co-creator of [Value Investor's Club](https://valueinvestorsclub.com)
+
+### Joel Tillinghast
+
+Manager of Vanguard's Low-cost Equity Fund
+
+[Big Money Thinks Small: Biases, Blind Spots, and Smarter Investing](https://www.goodreads.com/book/show/33098504-big-money-thinks-small)
+  * By Joel Tillinghast
 
 #### Special Situations Investing Class, Columbia University, Fall 2005
 
