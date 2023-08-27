@@ -139,6 +139,23 @@ the Global Financial Crisis of 2007-2008 and made
 [Burry Twitter Archive](https://twitter.com/BurryArchive) because he occasionally
 deletes all his tweets, as if he knows the black helicopters are coming for him.
 
+### Walter Schloss
+
+Walter Schloss was one of the original students of Ben Graham and worked alongside
+Warren Buffett at Graham-Newman Corporation. He was listed as one of the
+Super-investors of Graham and Doddsville and ran a private investing partnership
+for over 40 years that achieved 15% after fees, compared to the S&P 500's 10% during
+the same time period.
+
+with his son Edwin, sitting at Tweedy, Browne for 40 years with only four filing cabinets.
+
+[Walter Schloss Archive](https://www.walterschloss.com/)
+
+[Walter Schloss Biography Article](http://www.fordhamgabellicenter.org/wp-content/uploads/2021/12/Walter-Schloss.pdf)
+from Fordham Gabelli Center.
+
+[The Right Stuff: Why Walter Schloss is Such a Great Investor](https://www8.gsb.columbia.edu/sites/valueinvesting/files/files/The%20Right%20Stuff.pdf), an interview reprinted from Barrons in 1958.
+
 ## Books Organized By Theme
 
 The complete list of books is available as the
