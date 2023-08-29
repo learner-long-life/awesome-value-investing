@@ -269,14 +269,36 @@ quantitative criteria or egregious underpricing.
  
 ### Microcaps
 
+## Events
+
+In-person and online events to learn and practice value investing by meeting and being around other value investors.
+
+### Berkshire Hathaway Annual Meetings
+
+
+
+### Ivey Value Investing Conference
+
+### Markel Annual Meetings
+
+### Warren Buffett Charity Lunches
+
+### Mohnish Pabrai Charity Lunches
+
+[2023 ebay Auction](https://www.ebay.com/itm/126048620405?mkcid=16&mkevt=1&mkrid=711-127632-2357-0&ssspo=rU6nEAFmTPa&sssrc=4429486&ssuid=&widget_ver=artemis&media=COPY)
+
+### Guy Spier Charity Lunches
+
+[2022 Auction](https://web.archive.org/web/20221117203216/https://www.ebay.ch/itm/1256077884230
+
 ## Websites
 
 ### Data Aggregators
 
+* [Gurufocus](https://gurufocus.com)
 * [Dataroma](https://dataroma.com)
-
 * [Hedgefollow](https://hedgefollow.com)
 
 ## Video Channels
 
-## 
+### New Money
