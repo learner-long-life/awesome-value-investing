@@ -251,6 +251,13 @@ quantitative criteria or egregious underpricing.
 
 * [Colonel Harland Sanders: The Autobiography of the Original Celebrity Chef](https://www.goodreads.com/book/show/15767252-colonel-harland-sanders?from_search=true&from_srp=true&qid=3HghbUp2Hb&rank=2)
 
+## Investor Letters
+
+* [Saber Capital Management Notes](https://sabercapitalmgt.com/saber-notes/)
+  * Recommend by Gautam Baid
+ 
+* [Peterson Capital Management Research](https://www.petersonfunds.com/media-and-materials/)
+
 ## Investment Themes
 
 ### Quality businesses
