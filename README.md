@@ -115,10 +115,15 @@ Manager of Vanguard's Low-cost Equity Fund
   * [At Internet Archive](https://archive.org/stream/JoelGreenblattClassNotesOnSpecialSituationInvesting/Joel-Greenblatt-Class%20notes%20on%20Special%20situation%20investing_djvu.txt)
   * [At Focused Compounding]() 
 
-
 ### Mohnish Pabrai
 
 Founder and Managing Partner at [Pabrai Funds]() and Dakshana Foundation. 
+
+### Guy Spier
+
+Founder and Managing Partner of Aquamarine Capital and the ValueX Conference.
+
+23 August 2023 - [Behind the Balance Sheet Interview](https://youtu.be/Sq_cXusd8n4?si=dpW9XlJOEx6Db7me&t=3532)
 
 ### Seth Klarman
 
@@ -156,6 +161,14 @@ from Fordham Gabelli Center.
 
 [The Right Stuff: Why Walter Schloss is Such a Great Investor](https://www8.gsb.columbia.edu/sites/valueinvesting/files/files/The%20Right%20Stuff.pdf), an interview reprinted from Barrons in 1958.
 
+### Ted Wechsler
+
+Co-Investment Officer at Berkshire Hathaway.
+
+### Tod Combs
+
+Co-Investment Officer at Berkshire Hathaway, CEO of GEICO.
+
 ## Books Organized By Theme
 
 The complete list of books is available as the
@@ -174,7 +187,8 @@ The complete list of books is available as the
   * by Gautam Baid
   * Published 2019.
 
-[]
+[The Education of a Value Investor](https://www.goodreads.com/book/show/20696027-the-education-of-a-value-investor)
+  * by Guy Spier
 
 ### Books About Wordly Wisdom and Human (Mis)judgment
 
@@ -226,6 +240,10 @@ quantitative criteria or egregious underpricing.
 * [Trillion Dollar Triage](https://www.goodreads.com/book/show/58450272-trillion-dollar-triage)
   * By Nick Timiraos
   * Recommended by Warren Buffett at 2022 Berkshire Meeting, Omaha Bookworm
+ 
+* [What I Learned About Investing From Charles Darwin](https://www.goodreads.com/book/show/62792694-what-i-learned-about-investing-from-darwin)
+  * By Pulak Prasad
+  * Recommended by [Mohnish Pabrai to Guy Spier](https://youtu.be/Sq_cXusd8n4?si=rUg4qE3gZY066tlB&t=3571)
 
 ### Business History
 
@@ -233,11 +251,24 @@ quantitative criteria or egregious underpricing.
 
 * [Colonel Harland Sanders: The Autobiography of the Original Celebrity Chef](https://www.goodreads.com/book/show/15767252-colonel-harland-sanders?from_search=true&from_srp=true&qid=3HghbUp2Hb&rank=2)
 
+## Investment Themes
+
+### Quality businesses
+
+* What businesses in the S&P 500 will be better 5 years from now?
+  * From a conversation between Charlie Munger and Tod Combs
+  * Reported in interview, Columbia's Heilbrunn Center for Value Investing Annual Breakfast 2023
+  * Mentioned in [Guy Spier's Behind the Balance Sheet interview](https://youtu.be/Sq_cXusd8n4?si=dpW9XlJOEx6Db7me&t=3532)
+ 
+### Microcaps
+
 ## Websites
 
 ### Data Aggregators
 
-* [Datorama](https://datorama.com)
+* [Dataroma](https://dataroma.com)
+
+* [Hedgefollow](https://hedgefollow.com)
 
 ## Video Channels
 
