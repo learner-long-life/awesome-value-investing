@@ -258,6 +258,8 @@ quantitative criteria or egregious underpricing.
  
 * [Peterson Capital Management Research](https://www.petersonfunds.com/media-and-materials/)
 
+* [Semper Augustus Investment Client Letters](https://www.semperaugustus.com/clientletter)
+
 ## Investment Themes
 
 ### Quality businesses
