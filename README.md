@@ -161,6 +161,21 @@ from Fordham Gabelli Center.
 
 [The Right Stuff: Why Walter Schloss is Such a Great Investor](https://www8.gsb.columbia.edu/sites/valueinvesting/files/files/The%20Right%20Stuff.pdf), an interview reprinted from Barrons in 1958.
 
+### Lou Simpson
+
+* -2010 Chief Investment Officer and Co-CEO of GEICO
+* 2011-2019 SQ Advisers 
+* d. 2022, 85 yo
+
+The stand-by investor ready to take over Berkshire Hathaway for many
+years if anything happened to Buffett and Munger.
+
+[Lou Simpson: The Disciplined Investor](https://catalogimages.wiley.com/images/db/pdf/9781119012023.excerpt.pdf)
+  * [Chapter One of Concentrated Investing](https://www.goodreads.com/book/show/29778374-concentrated-investing)
+
+[Interview with Kellogg School of Management]
+(https://insight.kellogg.northwestern.edu/article/investment-great-lou-simpson-explains-portfolio-strategy)
+
 ### Ted Wechsler
 
 Co-Investment Officer at Berkshire Hathaway.
@@ -179,7 +194,16 @@ The complete list of books is available as the
 * [The Intelligent Investor](https://www.goodreads.com/book/show/106835.The_Intelligent_Investor)
   * by Benjamin Graham.
 
-* 
+
+### Writings About Price / Earnings Ratio
+
+* [https://www.youtube.com/watch?v=cJD98Ax_muk](https://www.parijatgarg.org/blog/wp-content/uploads/2020/04/What-does-a-price-earnings-multiple-mean-Mauboussin-and-Callahan.pdf)
+  * by Michael Mauboussin
+  * [Recommended by Gautam Baid](https://youtu.be/cJD98Ax_muk?si=c_ju9a8YrFxbaiJA)
+ 
+* [The P/E Ratio: A User's Manual](https://www.td.com/gl/en/global-investment-solutions/insights/insight-thought-leadership-detail-page/the-p-e-ratio--a-user-s-manual)
+  * Epoch Investments
+  * [Recommended by Gautam Baid](https://youtu.be/cJD98Ax_muk?si=c_ju9a8YrFxbaiJA)
 
 ### Books About Investing As a Personal Journey
 
