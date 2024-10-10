@@ -8,7 +8,7 @@ sustainably, and finding great businesses.
 
 Someday, we won't have to write whole books about the difference between investing and speculation. Until then... there's Awesome Value Investing.
 
-Contributions and feedback are welcome. Please open a pull request or message me at @learner-long-life.
+Contributions and feedback are welcome. Please open a [pull request](https://github.com/learner-long-life/awesome-value-investing/pulls) or issue.
 
 Inspired by [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning)
 
@@ -22,7 +22,7 @@ For a complete beginner who wants to understand successful investing basics, sta
 with equities (stocks), with general principles that can be applied to bonds, real estate,
 and other assets.
 
-[One Up on Wall Street] Peter Lynch
+[One Up on Wall Street](https://www.goodreads.com/book/show/762462.One_Up_On_Wall_Street?from_search=true&from_srp=true&qid=EEE3m8KFyM&rank=1) Peter Lynch
 Recommended by [Mohnish Pabrai, 1994]()
 
 ## Online Resources Organized By Superinvestors
