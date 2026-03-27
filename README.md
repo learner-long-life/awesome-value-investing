@@ -23,7 +23,7 @@ with equities (stocks), with general principles that can be applied to bonds, re
 and other assets.
 
 [One Up on Wall Street](https://www.goodreads.com/book/show/762462.One_Up_On_Wall_Street?from_search=true&from_srp=true&qid=EEE3m8KFyM&rank=1) Peter Lynch
-Recommended by [Mohnish Pabrai, 1994]()
+Recommended by [Mohnish Pabrai, 1994](https://www.pabraifunds.com/)
 
 ## Online Resources Organized By Superinvestors
 
@@ -33,7 +33,7 @@ Investors who have achieved market returns over long periods of time.
 
 The chairman and CEO of Berkshire Hathaway.
 
-[Warren Buffett Archive]()
+[Warren Buffett Archive](https://buffett.cnbc.com/)
 
 [Warren Buffet: An Illustrated Biography of the World's Most Successful Investor](https://www.goodreads.com/book/show/1144.Warren_Buffett)
   * by Ayano Morio
@@ -113,11 +113,11 @@ Manager of Vanguard's Low-cost Equity Fund
 
   * Taught by Joel Greenblatt
   * [At Internet Archive](https://archive.org/stream/JoelGreenblattClassNotesOnSpecialSituationInvesting/Joel-Greenblatt-Class%20notes%20on%20Special%20situation%20investing_djvu.txt)
-  * [At Focused Compounding]() 
+  * [At Focused Compounding](https://focusedcompounding.com/) 
 
 ### Mohnish Pabrai
 
-Founder and Managing Partner at [Pabrai Funds]() and Dakshana Foundation. 
+Founder and Managing Partner at [Pabrai Funds](https://www.pabraifunds.com/) and Dakshana Foundation. 
 
 ### Guy Spier
 
@@ -227,30 +227,30 @@ The complete list of books is available as the
 
 ### Books About Investor Psychology
 
-* [The Psychology of Money]()
+* [The Psychology of Money](https://www.collaborativefund.com/blog/the-psychology-of-money/)
   * By Morgan Housel
 
-* [Thinking in Bets]()
+* [Thinking in Bets](https://www.goodreads.com/book/show/35957157-thinking-in-bets)
   * By Annie Duke
 
 ### Books About Successful Investors
 
-* [Richer Wiser Happier]()
+* [Richer Wiser Happier](https://www.goodreads.com/book/show/54898389-richer-wiser-happier)
   * By William Green 
 
 ### Books About Investing in Quality
 
-[Common Stocks and Uncommon Profits]()
+[Common Stocks and Uncommon Profits](https://www.amazon.com/Common-Stocks-Uncommon-Profits-Writings/dp/0471445509)
   * by Phil Fisher
   * Published 1958
-  * Recommended by [Warren Buffett]()
+  * Recommended by [Warren Buffett](https://buffett.cnbc.com/)
 [Summary](Books/Phil_Fisher/Common_Stocks_and_Uncommon_Profits.md)
 The classic work on investing in companies based on their quality, common mistakes
 investors make with respect to quality, and dimensions of investment criteria.
 Often presented as a counterpoint to Ben Graham's approach to investing based purely on 
 quantitative criteria or egregious underpricing.
 
-[Quality of Earnings]()
+[Quality of Earnings](https://www.amazon.com/Quality-Earnings-Thornton-L-OGlove/dp/0684863758)
   * By Thornton L. O'Glove
   * Recommended by Gautam Baid
 
@@ -324,6 +324,10 @@ In-person and online events to learn and practice value investing by meeting and
 * [Gurufocus](https://gurufocus.com)
 * [Dataroma](https://dataroma.com)
 * [Hedgefollow](https://hedgefollow.com)
+
+### Tools
+
+* [KeepRule](https://keeprule.com) - Free investment principles database with 1,377 rules from 26 legendary investors
 
 ## Video Channels
 
