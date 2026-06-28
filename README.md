@@ -324,6 +324,7 @@ In-person and online events to learn and practice value investing by meeting and
 * [Gurufocus](https://gurufocus.com)
 * [Dataroma](https://dataroma.com)
 * [Hedgefollow](https://hedgefollow.com)
+* [FilingFirehose](https://filingfirehose.com) — Free SEC filing risk scoring on any US stock ticker (LOW/MODERATE/ELEVATED/HIGH). Surfaces 8-K cyber incidents, dilution, restatement risk, officer departures. Premium tiers from $9/mo.
 
 ## Video Channels
 
