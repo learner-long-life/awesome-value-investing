@@ -16,6 +16,17 @@ Inspired by [awesome-machine-learning](https://github.com/josephmisiti/awesome-m
 
 [All Videos As a Playlist on Youtube](https://www.youtube.com/watch?v=b8zbC5ZsisI&list=PLAAmnDtuht3DEjmgRSdKp7wMjVloCSQqC)
 
+
+### Interactive Tools
+
+[Buffett Life Simulator](https://ordinarymantrying.com/tools/buffett-simulator.html)
+  * Free browser-based simulator placing you at Buffett's real career decision points
+  * You choose before seeing what he actually did — learn by deciding, not reading
+
+[Investor Bias Check](https://ordinarymantrying.com/tools/investor-bias-check.html)
+  * 8-question behavioral finance self-assessment
+  * Reveals whether you hold a stock on logic or emotional attachment (sunk cost, loss aversion, etc.)
+
 ## Where Do I Start
 
 For a complete beginner who wants to understand successful investing basics, starting 
