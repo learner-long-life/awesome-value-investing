@@ -324,6 +324,8 @@ In-person and online events to learn and practice value investing by meeting and
 * [Gurufocus](https://gurufocus.com)
 * [Dataroma](https://dataroma.com)
 * [Hedgefollow](https://hedgefollow.com)
+* [Compounder](https://thecompounder.fyi)
+
 
 ### Education & Principles
 
