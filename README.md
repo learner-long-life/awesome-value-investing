@@ -325,6 +325,10 @@ In-person and online events to learn and practice value investing by meeting and
 * [Dataroma](https://dataroma.com)
 * [Hedgefollow](https://hedgefollow.com)
 
+### Education & Principles
+
+* [KeepRule](https://keeprule.com/) - 1,300+ investment principles from 27 legendary investors (Buffett, Munger, Marks, Dalio, etc.), 95 scenario-based guides, and a free investment psychology test
+
 ## Video Channels
 
 ### New Money
