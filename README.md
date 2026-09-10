@@ -27,6 +27,8 @@ Inspired by [awesome-machine-learning](https://github.com/josephmisiti/awesome-m
   * 8-question behavioral finance self-assessment
   * Reveals whether you hold a stock on logic or emotional attachment (sunk cost, loss aversion, etc.)
 
+[DUEL](https://duelstocks.com) - Free tool to compare any two US-listed stocks head-to-head on 8 fundamental factors computed exclusively from SEC EDGAR filings (10-K/10-Q) - Base scoring algorithm is open source on GitHub, so you can verify exactly how the comparison is calculated
+
 ## Where Do I Start
 
 For a complete beginner who wants to understand successful investing basics, starting 
