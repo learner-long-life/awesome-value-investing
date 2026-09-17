@@ -26,6 +26,9 @@ Inspired by [awesome-machine-learning](https://github.com/josephmisiti/awesome-m
 [Investor Bias Check](https://ordinarymantrying.com/tools/investor-bias-check.html)
   * 8-question behavioral finance self-assessment
   * Reveals whether you hold a stock on logic or emotional attachment (sunk cost, loss aversion, etc.)
+[Stock Average Calculator](https://stockavg.com/)
+  * Free browser calculators for share cost basis, averaging down, dividend reinvestment, profit and loss, position size and the compound annual growth rate of a position
+  * Every number comes from what you type, and each line of the arithmetic is printed so it can be checked by hand, no signup
 
 ## Where Do I Start
 
