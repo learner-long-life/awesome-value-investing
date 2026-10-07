@@ -332,6 +332,7 @@ In-person and online events to learn and practice value investing by meeting and
 
 ### Data Aggregators
 
+* [La Plata](https://laplata.one/en/) - Argentina-focused market research with profiles of listed companies, dated market data, exchange rates, and economic context.
 * [Gurufocus](https://gurufocus.com)
 * [Dataroma](https://dataroma.com)
 * [Hedgefollow](https://hedgefollow.com)
