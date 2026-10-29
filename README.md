@@ -27,6 +27,10 @@ Inspired by [awesome-machine-learning](https://github.com/josephmisiti/awesome-m
   * 8-question behavioral finance self-assessment
   * Reveals whether you hold a stock on logic or emotional attachment (sunk cost, loss aversion, etc.)
 
+[DisconfirmAI Value Trap Review](https://disconfirmai.com/en/tools/value-trap)
+  * Free research framework for checking whether a cheap-looking stock is cheap for a reason: value overstated, value eroding, or value that never reaches shareholders
+  * Each claim gets a falsification condition and is marked supported, unresolved or invalidated. No account needed
+
 ## Where Do I Start
 
 For a complete beginner who wants to understand successful investing basics, starting 
